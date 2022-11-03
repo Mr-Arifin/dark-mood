@@ -5,4 +5,4 @@ git clone https://github.com/Mr-Arifin/dark-mood
 
 cd dark-mood
 
-python mahadi.py
+python2 mahadi.py
